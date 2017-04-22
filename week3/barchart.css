@@ -1,0 +1,23 @@
+<style>
+    .axis text{
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 6px;
+      text-anchor: end;
+    }
+    .axis path{
+      fill:none;
+      stroke:black;
+      stroke-width: 0.5px;
+      shape-rendering: crispEdges;
+    }
+    .bar{
+        stroke: none;
+    }
+    .textlabel{
+        font-family: Helvetica, Arial, sans-serif;
+        font-size:10px;
+        text-anchor: middle;
+    }
+
+
+</style>
